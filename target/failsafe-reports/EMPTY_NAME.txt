@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: EMPTY_NAME
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.16 s <<< FAILURE! - in EMPTY_NAME
+EMPTY_NAME.Search book  Time elapsed: 0.16 s  <<< ERROR!
+java.lang.NullPointerException: No BaseStepListener has been registered - are you running your test using the Serenity runners?
+

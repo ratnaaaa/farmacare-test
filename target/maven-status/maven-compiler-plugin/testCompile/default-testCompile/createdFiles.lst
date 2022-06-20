@@ -1,0 +1,7 @@
+CucumberTestSuite.class
+Tasks\navigateTo.class
+stepDefinitions\parameterDefinitions.class
+Tasks\ClickOn.class
+pageObjects\loginPageObject.class
+stepDefinitions\loginStepDef.class
+Tasks\inputText.class
